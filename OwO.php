@@ -1,0 +1,92 @@
+<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
+<div id="OwO-container"  style="width:100%;">
+    <div class="OwO OwO-open" id="qaq">
+        <div class="OwO-body" id="OwO-body">
+    <ul id="OwO-pp" class="OwO-items OwO-items-emoticon OwO-items-show" style="max-height: 197px;">
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_han)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_han.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_mj)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_mj.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_djy)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_djy.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_pc)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_pc.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_shang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_shang.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(huaji_xiao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji_xiao.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(toukan)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/toukan.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(biexiao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/biexiao.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(hemenjiu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/hemenjiu.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chigua2)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chigua2.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaoquan_love)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaoquan_love.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_red_1)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_red_1.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_melon)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_melon.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_mask)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_mask.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_hufen)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_hufen.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_han)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_han.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_gh)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_gh.png"alt="表情图片" /></li>
+      <li class="OwO-item" onclick="Smilies.grin('@(chaiquan_3)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan_3.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(chaiquan)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquan.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(chaiquanbugaoxin)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquanbugaoxin.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(chaiquanzaijian)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquanzaijian.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(chaiquanku)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chaiquanku.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(hehe)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/hehe.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(haha)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/haha.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(tushe)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/tushe.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(taikaixin)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/taikaixin.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xiaoyan)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xiaoyan.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(huaxin)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaxin.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xiaoguai)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xiaoguai.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(guai)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/guai.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(wuzuixiao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/wuzuixiao.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(huaji)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/huaji.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(nidongde)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/nidongde.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(bugaoxin)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/bugaoxin.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(nu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/nu.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(han)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/han.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(heixian)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/heixian.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(lei)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/lei.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(zhenbang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/zhenbang.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(pen)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/pen.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(jingku)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/jingku.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(yinxian)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/yinxian.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(bishi)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/bishi.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(ku)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/ku.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(a)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/a.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(kuanghan)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/kuanghan.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(what)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/what.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(yiwen)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/yiwen.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(suanshuang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/suanshuang.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(yamiedie)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/yamiedie.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(weiqu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/weiqu.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(jingya)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/jingya.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(shuijiao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/shuijiao.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xiaoniao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xiaoniao.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(wabi)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/wabi.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(tu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/tu.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xili)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xili.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xiaohonglian)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xiaohonglian.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(landeli)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/landeli.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(mianqiang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/mianqiang.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(aixin)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/aixin.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xinsui)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xinsui.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(meigui)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/meigui.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(liwu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/liwu.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(caihong)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/caihong.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(taiyang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/taiyang.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xinxinyueliang)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xinxinyueliang.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(qianbi)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/qianbi.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(chabei)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/chabei.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(dangao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/dangao.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(damuzhi)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/damuzhi.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(shengli)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/shengli.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(haha)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/haha.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(OK)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/OK.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(shafa)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/shafa.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(shouzhi)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/shouzhi.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(xiangjiao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/xiangjiao.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(bianbian)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/bianbian.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(yaowan)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/yaowan.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(hlj)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/hlj.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(lazhu)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/lazhu.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(yingyue)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/yingyue.png"alt="表情图片" /></li>
+     <li class="OwO-item" onclick="Smilies.grin('@(dengpao)');"><img src="http://file.yxjnotes.top/jtcdn/img/smiles/dengpao.png"alt="表情图片" /></li>
+    </ul>
+        </div>
+    </div>
+</div><br>
