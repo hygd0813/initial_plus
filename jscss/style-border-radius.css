@@ -1,0 +1,16 @@
+.whisper .post-content { border-radius: 5px; }
+.liebiao { border-radius: 10px; }
+#main .mianbao { border-radius: 5px; }
+.liebiao img { border-radius: 10px 10px 0px 0px; }
+.fpic2 img { border-radius: 10px; }
+.fpic2:after { border-radius: 10px; }
+.liebiao .thumb { border-radius: 10px 10px 0px 0px; }
+#main .post-biaoti { border-radius: 0px 0px 5px 5px; }
+#main .post-mianbao { border-radius: 5px; }
+#main .post-zhengwen { border-radius: 10px; }
+#main .post-zhengwen .post-toutu img { border-radius: 10px 10px 0px 0px; }
+#main .post-zhengwen .post-toutu1 img { border-radius: 10px; }
+#comments { border-radius: 5px; }
+#main .post-near { border-radius: 5px; }
+#secondary { border-radius: 0px 0px 5px 5px; }
+#main .fenlei-miaoshu { border-radius: 10px; }
